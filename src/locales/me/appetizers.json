@@ -1,0 +1,158 @@
+{
+  "title": "Predjela",
+  "backToMenu": "Nazad na Meni",
+  "categories": {
+    "coldAppetizers": {
+      "title": "Hladna Predjela",
+      "items": {
+        "bruschetta": {
+          "name": "Brusketi",
+          "description": "Prepečen hljeb sa svježim paradajzom, bijelim lukom i bosiljkom.",
+          "price": "€4.50",
+          "tags": ["vegansko"]
+        },
+        "capreseSalad": {
+          "name": "Kapreze Salata",
+          "description": "Paradajz, mocarela i bosiljak preliveni balzamiko prelivom.",
+          "price": "€5.50",
+          "tags": ["vegetarijansko", "bez glutena"]
+        },
+        "hummusPlate": {
+          "name": "Hummus Tanjir",
+          "description": "Kremasti hummus sa pita hljebom i štapićima povrća.",
+          "price": "€5.00",
+          "tags": ["vegansko"]
+        },
+        "deviledEggs": {
+          "name": "Punjena Jaja",
+          "description": "Kuvana jaja punjena kremastim filom od senfa i majoneza.",
+          "price": "€4.00",
+          "tags": ["vegetarijansko", "bez glutena"]
+        },
+        "prosciuttoMelon": {
+          "name": "Pršuta i Dinja",
+          "description": "Slatka dinja umotana u slane kriške pršute.",
+          "price": "€6.00",
+          "tags": ["bez glutena"]
+        },
+        "cheesePlatter": {
+          "name": "Plata Sireva",
+          "description": "Izbor domaćih i uvoznih sireva sa orasima i voćem.",
+          "price": "€8.50",
+          "tags": ["vegetarijansko", "mlečni proizvod"]
+        }
+      }
+    },
+    "hotAppetizers": {
+      "title": "Topla Predjela",
+      "items": {
+        "mozzarellaSticks": {
+          "name": "Mozzarella Štapići",
+          "description": "Panirani štapići mocarele sa sosom od paradajza.",
+          "price": "€6.00",
+          "tags": ["vegetarijansko", "mlečni proizvod"]
+        },
+        "chickenWings": {
+          "name": "Pileća Krilca",
+          "description": "Hrskava krilca u sosu po izboru.",
+          "price": "€7.00",
+          "tags": ["gluten", "ljuto"]
+        },
+        "springRolls": {
+          "name": "Prolećne Rolnice",
+          "description": "Hrskave rolnice sa povrćem i sosom za umakanje.",
+          "price": "€5.00",
+          "tags": ["vegansko"]
+        },
+        "stuffedMushrooms": {
+          "name": "Punjene Pečurke",
+          "description": "Pečurke punjene bijelim lukom, začinima i sirom.",
+          "price": "€5.50",
+          "tags": ["vegetarijansko", "bez glutena"]
+        },
+        "friedCalamari": {
+          "name": "Prženi Lignje",
+          "description": "Hrskavi kolutići lignji sa limunom i aioli sosom.",
+          "price": "€7.50",
+          "tags": ["morski plodovi"]
+        },
+        "miniEmpanadas": {
+          "name": "Mini Empanade",
+          "description": "Tijesto punjeno začinjenim mesom i povrćem.",
+          "price": "€6.50",
+          "tags": ["gluten"]
+        }
+      }
+    },
+    "tapas": {
+      "title": "Tapasi",
+      "items": {
+        "patatasBravas": {
+          "name": "Patatas Bravas",
+          "description": "Pomfrit u pikantnom paradajz sosu i aioliju.",
+          "price": "€5.50",
+          "tags": ["vegetarijansko"]
+        },
+        "garlicShrimp": {
+          "name": "Gambori na Bijelom Luku",
+          "description": "Gambori prženi u maslinovom ulju sa bijelim lukom.",
+          "price": "€7.50",
+          "tags": ["morski plodovi", "bez glutena"]
+        },
+        "chorizoBites": {
+          "name": "Čorizo Zalogaji",
+          "description": "Ljuta španska kobasica grilovana i servirana topla.",
+          "price": "€6.00",
+          "tags": ["bez glutena"]
+        },
+        "manchegoOlives": {
+          "name": "Mančego i Masline",
+          "description": "Kockice mančego sira sa mariniranim maslinama.",
+          "price": "€5.50",
+          "tags": ["vegetarijansko", "bez glutena"]
+        },
+        "tunaTartare": {
+          "name": "Tuna Tartar",
+          "description": "Sirova tuna sa avokadom i soja-limeta dresingom.",
+          "price": "€8.00",
+          "tags": ["morski plodovi"]
+        }
+      }
+    },
+    "dipsSpreads": {
+      "title": "Namazi i Umaci",
+      "items": {
+        "tzatziki": {
+          "name": "Tzatziki",
+          "description": "Grčki jogurt sa krastavcem i bijelim lukom.",
+          "price": "€4.00",
+          "tags": ["vegetarijansko", "bez glutena", "mlečni proizvod"]
+        },
+        "babaGhanoush": {
+          "name": "Baba Ganuš",
+          "description": "Dimljeni patlidžan u umaku, serviran sa pitom.",
+          "price": "€4.50",
+          "tags": ["vegansko"]
+        },
+        "spinachArtichoke": {
+          "name": "Spanać i Artičoka Umak",
+          "description": "Topli kremasti umak od spanaća, artičoke i sira.",
+          "price": "€5.00",
+          "tags": ["vegetarijansko", "mlečni proizvod"]
+        },
+        "guacamole": {
+          "name": "Guakamole",
+          "description": "Sveži avokado sa limetom, crvenim lukom i paradajzom.",
+          "price": "€4.50",
+          "tags": ["vegansko", "bez glutena"]
+        },
+        "trioDip": {
+          "name": "Trio Umaci",
+          "description": "Izbor hummusa, tzatzikija i umaka od pečene paprike.",
+          "price": "€6.50",
+          "tags": ["vegetarijansko"]
+        }
+      }
+    }
+  }
+}

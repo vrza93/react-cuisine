@@ -1,17 +1,24 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import React from "react";
+import ReactDOM from "react-dom/client";
+import App from "./App";
+import { BrowserRouter } from "react-router-dom";
+import "./index.css";
+import "./i18n";
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+// Hide Splash Screen After Page Load
+// Add a delay before hiding the splash screen
+window.addEventListener("load", () => {
+  const splashScreen = document.getElementById("splash-screen");
+
+  // Set a delay (e.g., 2 seconds)
+  setTimeout(() => {
+    splashScreen.classList.add("hide");
+  }, 800); // 1000ms = 1 second
+});
+
+const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  <React.StrictMode>
+  <BrowserRouter>
     <App />
-  </React.StrictMode>
+  </BrowserRouter>
 );
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();

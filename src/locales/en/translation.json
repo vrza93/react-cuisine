@@ -1,0 +1,12 @@
+{
+  "header": {
+    "welcome": "Welcome to Our Restaurant",
+    "chooseLanguage": "Choose a language and enjoy"
+  },
+  "menu": {
+    "warmDrinks": "Warm Drinks",
+    "beverages": "Beverages",
+    "appetizers": "Appetizers",
+    "mainDishes": "Main Dishes"
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "title": "Beverages",
+  "backToMenu": "Back to Menu",
+  "categories": {
+    "softDrinks": {
+      "title": "Soft Drinks",
+      "items": {
+        "cola": {
+          "name": "Cola",
+          "description": "Classic carbonated soft drink.",
+          "price": "€2.00",
+          "tags": ["caffeinated", "gluten-free"]
+        },
+        "pepsi": {
+          "name": "Pepsi",
+          "description": "Popular cola-flavored soda.",
+          "price": "€2.00",
+          "tags": ["caffeinated", "gluten-free"]
+        },
+        "fanta": {
+          "name": "Fanta",
+          "description": "Fizzy drink with fruity orange flavor.",
+          "price": "€2.00",
+          "tags": ["vegan", "gluten-free"]
+        },
+        "lemonade": {
+          "name": "Lemonade",
+          "description": "Refreshing lemon-based beverage.",
+          "price": "€2.50",
+          "tags": ["vegan", "gluten-free"]
+        },
+        "icedTea": {
+          "name": "Iced Tea",
+          "description": "Cold tea with a hint of lemon.",
+          "price": "€2.20",
+          "tags": ["caffeinated"]
+        }
+      }
+    },
+    "juices": {
+      "title": "Juices",
+      "items": {
+        "appleJuice": {
+          "name": "Apple Juice",
+          "description": "Fresh juice made from apples.",
+          "price": "€2.50",
+          "tags": ["vegan", "gluten-free"]
+        },
+        "orangeJuice": {
+          "name": "Orange Juice",
+          "description": "Freshly squeezed orange juice.",
+          "price": "€3.00",
+          "tags": ["vegan", "gluten-free"]
+        },
+        "carrotJuice": {
+          "name": "Carrot Juice",
+          "description": "Vitamin-rich juice made from carrots.",
+          "price": "€2.80",
+          "tags": ["vegan", "gluten-free"]
+        },
+        "pineappleJuice": {
+          "name": "Pineapple Juice",
+          "description": "Tropical and tangy juice.",
+          "price": "€3.00",
+          "tags": ["vegan", "gluten-free"]
+        },
+        "grapeJuice": {
+          "name": "Grape Juice",
+          "description": "Sweet and rich grape flavor.",
+          "price": "€2.90",
+          "tags": ["vegan", "gluten-free"]
+        }
+      }
+    },
+    "energyDrinks": {
+      "title": "Energy Drinks",
+      "items": {
+        "redBull": {
+          "name": "Red Bull",
+          "description": "Boosts energy with caffeine and taurine.",
+          "price": "€3.00",
+          "tags": ["caffeinated"]
+        },
+        "monster": {
+          "name": "Monster",
+          "description": "Energy drink with bold flavor.",
+          "price": "€3.20",
+          "tags": ["caffeinated"]
+        },
+        "rockstar": {
+          "name": "Rockstar",
+          "description": "Power-packed energy and flavor.",
+          "price": "€3.00",
+          "tags": ["caffeinated"]
+        },
+        "burn": {
+          "name": "Burn",
+          "description": "Citrusy energy drink with a punch.",
+          "price": "€2.90",
+          "tags": ["caffeinated"]
+        },
+        "hellEnergy": {
+          "name": "Hell Energy",
+          "description": "Popular European energy drink.",
+          "price": "€2.80",
+          "tags": ["caffeinated"]
+        }
+      }
+    },
+    "beers": {
+      "title": "Beers",
+      "items": {
+        "heineken": {
+          "name": "Heineken",
+          "description": "Dutch lager with a mild flavor.",
+          "price": "€3.50",
+          "tags": ["lager"]
+        },
+        "amstel": {
+          "name": "Amstel",
+          "description": "Light and refreshing beer.",
+          "price": "€3.20",
+          "tags": ["lager"]
+        },
+        "guinness": {
+          "name": "Guinness",
+          "description": "Irish stout with rich flavor.",
+          "price": "€4.00",
+          "tags": ["stout"]
+        },
+        "corona": {
+          "name": "Corona",
+          "description": "Mexican pale lager served with lime.",
+          "price": "€3.80",
+          "tags": ["lager"]
+        },
+        "budweiser": {
+          "name": "Budweiser",
+          "description": "Classic American lager.",
+          "price": "€3.60",
+          "tags": ["lager"]
+        }
+      }
+    },
+    "whiskeys": {
+      "title": "Whiskeys",
+      "items": {
+        "jackDaniels": {
+          "name": "Jack Daniel's",
+          "description": "Tennessee whiskey with a smoky finish.",
+          "price": "€6.50",
+          "tags": ["tennessee"]
+        },
+        "jameson": {
+          "name": "Jameson",
+          "description": "Smooth Irish whiskey.",
+          "price": "€6.00",
+          "tags": ["irish"]
+        },
+        "johnnieWalker": {
+          "name": "Johnnie Walker",
+          "description": "Blended Scotch whiskey.",
+          "price": "€7.00",
+          "tags": ["scotch"]
+        },
+        "makersMark": {
+          "name": "Maker's Mark",
+          "description": "Premium Kentucky bourbon.",
+          "price": "€7.20",
+          "tags": ["bourbon"]
+        },
+        "chivas": {
+          "name": "Chivas Regal",
+          "description": "Elegant Scotch blend.",
+          "price": "€7.50",
+          "tags": ["scotch"]
+        }
+      }
+    },
+    "cocktails": {
+      "title": "Cocktails",
+      "items": {
+        "mojito": {
+          "name": "Mojito",
+          "description": "Mint, lime, rum, and soda cocktail.",
+          "price": "€5.50",
+          "tags": ["rum"]
+        },
+        "margarita": {
+          "name": "Margarita",
+          "description": "Tequila cocktail with lime.",
+          "price": "€6.00",
+          "tags": ["tequila"]
+        },
+        "cosmopolitan": {
+          "name": "Cosmopolitan",
+          "description": "Vodka, cranberry, and lime.",
+          "price": "€5.80",
+          "tags": ["vodka"]
+        },
+        "pinaColada": {
+          "name": "Piña Colada",
+          "description": "Coconut, pineapple, and rum mix.",
+          "price": "€6.50",
+          "tags": ["rum"]
+        },
+        "negroni": {
+          "name": "Negroni",
+          "description": "Gin, vermouth, and Campari cocktail.",
+          "price": "€6.20",
+          "tags": ["gin"]
+        }
+      }
+    },
+    "cognacs": {
+      "title": "Cognacs",
+      "items": {
+        "hennessy": {
+          "name": "Hennessy",
+          "description": "Smooth and rich French cognac.",
+          "price": "€8.00",
+          "tags": ["vsop"]
+        },
+        "remyMartin": {
+          "name": "Rémy Martin",
+          "description": "Fine champagne cognac.",
+          "price": "€8.50",
+          "tags": ["vsop"]
+        },
+        "courvoisier": {
+          "name": "Courvoisier",
+          "description": "Silky and well-balanced cognac.",
+          "price": "€7.80",
+          "tags": ["vsop"]
+        },
+        "martell": {
+          "name": "Martell",
+          "description": "Elegant and refined flavor.",
+          "price": "€8.00",
+          "tags": ["vs"]
+        },
+        "camus": {
+          "name": "Camus",
+          "description": "Floral and smooth cognac.",
+          "price": "€8.20",
+          "tags": ["vsop"]
+        }
+      }
+    },
+    "wines": {
+      "title": "Wines",
+      "items": {
+        "merlot": {
+          "name": "Merlot",
+          "description": "Smooth red wine with plum notes.",
+          "price": "€4.50",
+          "tags": ["red"]
+        },
+        "cabernet": {
+          "name": "Cabernet Sauvignon",
+          "description": "Full-bodied red wine.",
+          "price": "€5.00",
+          "tags": ["red"]
+        },
+        "chardonnay": {
+          "name": "Chardonnay",
+          "description": "Crisp white wine.",
+          "price": "€4.80",
+          "tags": ["white"]
+        },
+        "pinotGrigio": {
+          "name": "Pinot Grigio",
+          "description": "Light and citrusy white wine.",
+          "price": "€4.70",
+          "tags": ["white"]
+        },
+        "rose": {
+          "name": "Rosé",
+          "description": "Delicate and fruity rosé wine.",
+          "price": "€4.60",
+          "tags": ["rose"]
+        }
+      }
+    },
+    "champagnes": {
+      "title": "Champagnes",
+      "items": {
+        "moet": {
+          "name": "Moët & Chandon",
+          "description": "Luxury French champagne.",
+          "price": "€12.00",
+          "tags": ["brut"]
+        },
+        "veuveClicquot": {
+          "name": "Veuve Clicquot",
+          "description": "Bold and rich champagne.",
+          "price": "€13.00",
+          "tags": ["brut"]
+        },
+        "domPerignon": {
+          "name": "Dom Pérignon",
+          "description": "Prestigious vintage champagne.",
+          "price": "€20.00",
+          "tags": ["vintage"]
+        },
+        "piperHeidsieck": {
+          "name": "Piper-Heidsieck",
+          "description": "Lively and elegant flavor.",
+          "price": "€11.00",
+          "tags": ["brut"]
+        },
+        "bollinger": {
+          "name": "Bollinger",
+          "description": "Intense and structured champagne.",
+          "price": "€14.00",
+          "tags": ["brut"]
+        }
+      }
+    }
+  }
+}

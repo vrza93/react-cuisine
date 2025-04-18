@@ -1,0 +1,179 @@
+{
+  "title": "Main Dishes",
+  "backToMenu": "Back to Menu",
+  "categories": {
+    "meatDishes": {
+      "title": "Meat Dishes",
+      "items": {
+        "grilledChicken": {
+          "name": "Grilled Chicken",
+          "description": "Tender chicken breast grilled to perfection.",
+          "price": "€8.00",
+          "tags": ["gluten-free", "high-protein"]
+        },
+        "beefSteak": {
+          "name": "Beef Steak",
+          "description": "Juicy grilled beef steak with herbs.",
+          "price": "€12.00",
+          "tags": ["gluten-free", "high-protein"]
+        },
+        "porkRibs": {
+          "name": "Pork Ribs",
+          "description": "Slow-cooked pork ribs with BBQ sauce.",
+          "price": "€10.50",
+          "tags": ["contains-sugar"]
+        },
+        "lambChops": {
+          "name": "Lamb Chops",
+          "description": "Grilled lamb chops with rosemary and garlic.",
+          "price": "€13.00",
+          "tags": ["gluten-free"]
+        },
+        "stuffedChicken": {
+          "name": "Stuffed Chicken Breast",
+          "description": "Chicken breast stuffed with cheese and spinach.",
+          "price": "€9.50",
+          "tags": ["contains-dairy"]
+        }
+      }
+    },
+    "vegetarianDishes": {
+      "title": "Vegetarian Dishes",
+      "items": {
+        "pastaPrimavera": {
+          "name": "Pasta Primavera",
+          "description": "Pasta tossed with fresh seasonal vegetables.",
+          "price": "€8.00",
+          "tags": ["vegetarian"]
+        },
+        "stuffedPeppers": {
+          "name": "Stuffed Peppers",
+          "description": "Bell peppers filled with rice, cheese, and herbs.",
+          "price": "€7.00",
+          "tags": ["vegetarian", "gluten-free"]
+        },
+        "cheeseLasagna": {
+          "name": "Cheese Lasagna",
+          "description": "Layers of pasta with tomato sauce, ricotta, and mozzarella.",
+          "price": "€8.50",
+          "tags": ["vegetarian", "contains-gluten"]
+        },
+        "mushroomRisotto": {
+          "name": "Mushroom Risotto",
+          "description": "Creamy risotto with wild mushrooms and parmesan.",
+          "price": "€9.00",
+          "tags": ["vegetarian", "gluten-free"]
+        },
+        "eggplantParmesan": {
+          "name": "Eggplant Parmesan",
+          "description": "Breaded eggplant slices baked with marinara and cheese.",
+          "price": "€7.50",
+          "tags": ["vegetarian"]
+        }
+      }
+    },
+    "veganDishes": {
+      "title": "Vegan Dishes",
+      "items": {
+        "vegetableCurry": {
+          "name": "Vegetable Curry",
+          "description": "Spicy curry with mixed vegetables and coconut milk.",
+          "price": "€7.50",
+          "tags": ["vegan", "gluten-free"]
+        },
+        "tofuStirFry": {
+          "name": "Tofu Stir-Fry",
+          "description": "Crispy tofu with stir-fried vegetables and soy-ginger sauce.",
+          "price": "€8.00",
+          "tags": ["vegan"]
+        },
+        "veganBurger": {
+          "name": "Vegan Burger",
+          "description": "Plant-based patty with lettuce, tomato, and vegan mayo.",
+          "price": "€8.50",
+          "tags": ["vegan"]
+        },
+        "quinoaBowl": {
+          "name": "Quinoa Bowl",
+          "description": "Quinoa with roasted chickpeas, veggies, and tahini dressing.",
+          "price": "€7.50",
+          "tags": ["vegan", "gluten-free"]
+        },
+        "stuffedZucchini": {
+          "name": "Stuffed Zucchini",
+          "description": "Zucchini boats filled with lentils and tomatoes.",
+          "price": "€7.00",
+          "tags": ["vegan", "gluten-free"]
+        }
+      }
+    },
+    "pizzas": {
+      "title": "Pizzas",
+      "items": {
+        "margherita": {
+          "name": "Margherita",
+          "description": "Classic pizza with tomato sauce, mozzarella, and basil.",
+          "price": "€7.00",
+          "tags": ["vegetarian"]
+        },
+        "pepperoni": {
+          "name": "Pepperoni",
+          "description": "Tomato sauce, mozzarella, and spicy pepperoni slices.",
+          "price": "€8.00"
+        },
+        "veggiePizza": {
+          "name": "Vegetarian Pizza",
+          "description": "Loaded with bell peppers, mushrooms, olives, and onions.",
+          "price": "€7.50",
+          "tags": ["vegetarian"]
+        },
+        "bbqChickenPizza": {
+          "name": "BBQ Chicken Pizza",
+          "description": "BBQ sauce, grilled chicken, red onions, and mozzarella.",
+          "price": "€8.50"
+        },
+        "fourCheesePizza": {
+          "name": "Four Cheese Pizza",
+          "description": "Blend of mozzarella, gorgonzola, parmesan, and fontina.",
+          "price": "€8.50",
+          "tags": ["vegetarian", "contains-dairy"]
+        }
+      }
+    },
+    "seafoodDishes": {
+      "title": "Fish & Seafood",
+      "items": {
+        "grilledSalmon": {
+          "name": "Grilled Salmon",
+          "description": "Salmon fillet grilled with lemon and dill.",
+          "price": "€12.00",
+          "tags": ["gluten-free"]
+        },
+        "shrimpScampi": {
+          "name": "Shrimp Scampi",
+          "description": "Shrimp sautéed in garlic butter sauce over pasta.",
+          "price": "€11.00",
+          "tags": ["contains-gluten"]
+        },
+        "fishAndChips": {
+          "name": "Fish and Chips",
+          "description": "Beer-battered fish fillets served with fries.",
+          "price": "€9.50",
+          "tags": ["contains-gluten"]
+        },
+        "seafoodPaella": {
+          "name": "Seafood Paella",
+          "description": "Spanish rice dish with mussels, shrimp, and squid.",
+          "price": "€13.00",
+          "tags": ["gluten-free"]
+        },
+        "bakedCod": {
+          "name": "Baked Cod",
+          "description": "White cod baked in olive oil and herbs.",
+          "price": "€10.00",
+          "tags": ["gluten-free"]
+        }
+      }
+    }
+  }
+}

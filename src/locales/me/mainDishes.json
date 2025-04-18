@@ -1,0 +1,179 @@
+{
+  "title": "Glavna Jela",
+  "backToMenu": "Nazad na Meni",
+  "categories": {
+    "meatDishes": {
+      "title": "Jela od Mesa",
+      "items": {
+        "grilledChicken": {
+          "name": "Grilovana Piletina",
+          "description": "Sočni pileći file grilovan do savršenstva.",
+          "price": "€8.00",
+          "tags": ["bez-glutena", "bogato proteinima"]
+        },
+        "beefSteak": {
+          "name": "Biftek",
+          "description": "Sočan goveđi biftek grilovan sa začinskim biljem.",
+          "price": "€12.00",
+          "tags": ["bez-glutena", "bogato proteinima"]
+        },
+        "porkRibs": {
+          "name": "Svinjska Rebarca",
+          "description": "Polako kuvana rebarca sa BBQ sosom.",
+          "price": "€10.50",
+          "tags": ["sadrži šećer"]
+        },
+        "lambChops": {
+          "name": "Jagnjeći Kotleti",
+          "description": "Grilovani kotleti sa ruzmarinom i bijelim lukom.",
+          "price": "€13.00",
+          "tags": ["bez-glutena"]
+        },
+        "stuffedChicken": {
+          "name": "Punjena Piletina",
+          "description": "Pileći file punjen sirom i spanaćem.",
+          "price": "€9.50",
+          "tags": ["sadrži mliječne proizvode"]
+        }
+      }
+    },
+    "vegetarianDishes": {
+      "title": "Vegetarijanska Jela",
+      "items": {
+        "pastaPrimavera": {
+          "name": "Pasta Primavera",
+          "description": "Pasta sa sezonskim povrćem.",
+          "price": "€8.00",
+          "tags": ["vegetarijansko"]
+        },
+        "stuffedPeppers": {
+          "name": "Punjene Paprike",
+          "description": "Paprike punjene rižom, sirom i začinima.",
+          "price": "€7.00",
+          "tags": ["vegetarijansko", "bez-glutena"]
+        },
+        "cheeseLasagna": {
+          "name": "Lazanja sa Sirom",
+          "description": "Slojevi tjestenine, paradajz sosa, rikote i mocarele.",
+          "price": "€8.50",
+          "tags": ["vegetarijansko", "sadrži gluten"]
+        },
+        "mushroomRisotto": {
+          "name": "Rižoto sa Pečurkama",
+          "description": "Kremasti rižoto sa šumskim pečurkama i parmezanom.",
+          "price": "€9.00",
+          "tags": ["vegetarijansko", "bez-glutena"]
+        },
+        "eggplantParmesan": {
+          "name": "Parmezan od Patlidžana",
+          "description": "Pohovani patlidžan sa paradajz sosom i sirom.",
+          "price": "€7.50",
+          "tags": ["vegetarijansko"]
+        }
+      }
+    },
+    "veganDishes": {
+      "title": "Veganska Jela",
+      "items": {
+        "vegetableCurry": {
+          "name": "Povrtni Kari",
+          "description": "Kari sa povrćem i kokosovim mlijekom.",
+          "price": "€7.50",
+          "tags": ["vegansko", "bez-glutena"]
+        },
+        "tofuStirFry": {
+          "name": "Tofu sa Povrćem",
+          "description": "Hrskavi tofu sa prženim povrćem u soja-đumbir sosu.",
+          "price": "€8.00",
+          "tags": ["vegansko"]
+        },
+        "veganBurger": {
+          "name": "Veganski Burger",
+          "description": "Biljni burger sa zelatom, paradajzom i veganskim majonezom.",
+          "price": "€8.50",
+          "tags": ["vegansko"]
+        },
+        "quinoaBowl": {
+          "name": "Kinoa Zdjela",
+          "description": "Kinoa sa pečenim leblebijama, povrćem i tahini sosom.",
+          "price": "€7.50",
+          "tags": ["vegansko", "bez-glutena"]
+        },
+        "stuffedZucchini": {
+          "name": "Punjene Tikvice",
+          "description": "Tikvice punjene leblebijama i paradajzom.",
+          "price": "€7.00",
+          "tags": ["vegansko", "bez-glutena"]
+        }
+      }
+    },
+    "pizzas": {
+      "title": "Pice",
+      "items": {
+        "margherita": {
+          "name": "Margarita",
+          "description": "Klasična pica sa paradajz sosom, mocarelom i bosiljkom.",
+          "price": "€7.00",
+          "tags": ["vegetarijansko"]
+        },
+        "pepperoni": {
+          "name": "Pepperoni",
+          "description": "Paradajz sos, mocarela i pikantni pepperoni.",
+          "price": "€8.00"
+        },
+        "veggiePizza": {
+          "name": "Vegetarijanska Pica",
+          "description": "Sa paprikama, pečurkama, maslinama i crnim lukom.",
+          "price": "€7.50",
+          "tags": ["vegetarijansko"]
+        },
+        "bbqChickenPizza": {
+          "name": "BBQ Piletina Pica",
+          "description": "BBQ sos, grilovana piletina, crveni luk i mocarela.",
+          "price": "€8.50"
+        },
+        "fourCheesePizza": {
+          "name": "Četiri Sira",
+          "description": "Mješavina mocarele, gorgonzole, parmezana i fontine.",
+          "price": "€8.50",
+          "tags": ["vegetarijansko", "sadrži mliječne proizvode"]
+        }
+      }
+    },
+    "seafoodDishes": {
+      "title": "Riba i Morski Plodovi",
+      "items": {
+        "grilledSalmon": {
+          "name": "Grilovani Losos",
+          "description": "File lososa sa limunom i koprom.",
+          "price": "€12.00",
+          "tags": ["bez-glutena"]
+        },
+        "shrimpScampi": {
+          "name": "Škampi Skampi",
+          "description": "Škampi u sosu od bijelog luka i putera sa tjesteninom.",
+          "price": "€11.00",
+          "tags": ["sadrži gluten"]
+        },
+        "fishAndChips": {
+          "name": "Riba i Pomfrit",
+          "description": "Riba u pivskom tijestu sa pomfritom.",
+          "price": "€9.50",
+          "tags": ["sadrži gluten"]
+        },
+        "seafoodPaella": {
+          "name": "Paelja sa Plodovima Mora",
+          "description": "Špansko jelo od pirinča sa dagnjama, škampima i lignjama.",
+          "price": "€13.00",
+          "tags": ["bez-glutena"]
+        },
+        "bakedCod": {
+          "name": "Pečeni Bakalar",
+          "description": "Bijeli bakalar pečen u maslinovom ulju sa začinima.",
+          "price": "€10.00",
+          "tags": ["bez-glutena"]
+        }
+      }
+    }
+  }
+}

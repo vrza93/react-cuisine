@@ -1,0 +1,158 @@
+{
+  "title": "Appetizers",
+  "backToMenu": "Back to Menu",
+  "categories": {
+    "coldAppetizers": {
+      "title": "Cold Appetizers",
+      "items": {
+        "bruschetta": {
+          "name": "Bruschetta",
+          "description": "Grilled bread topped with fresh tomatoes, garlic, and basil.",
+          "price": "€4.50",
+          "tags": ["vegan"]
+        },
+        "capreseSalad": {
+          "name": "Caprese Salad",
+          "description": "Sliced tomatoes, fresh mozzarella, and basil drizzled with balsamic glaze.",
+          "price": "€5.50",
+          "tags": ["vegetarian", "gluten-free"]
+        },
+        "hummusPlate": {
+          "name": "Hummus Plate",
+          "description": "Creamy hummus served with pita bread and vegetable sticks.",
+          "price": "€5.00",
+          "tags": ["vegan"]
+        },
+        "deviledEggs": {
+          "name": "Deviled Eggs",
+          "description": "Hard-boiled eggs filled with a creamy mustard-mayo mix.",
+          "price": "€4.00",
+          "tags": ["vegetarian", "gluten-free"]
+        },
+        "prosciuttoMelon": {
+          "name": "Prosciutto & Melon",
+          "description": "Sweet cantaloupe wrapped in salty prosciutto slices.",
+          "price": "€6.00",
+          "tags": ["gluten-free"]
+        },
+        "cheesePlatter": {
+          "name": "Cheese Platter",
+          "description": "A selection of local and imported cheeses, nuts, and fruits.",
+          "price": "€8.50",
+          "tags": ["vegetarian", "dairy"]
+        }
+      }
+    },
+    "hotAppetizers": {
+      "title": "Hot Appetizers",
+      "items": {
+        "mozzarellaSticks": {
+          "name": "Mozzarella Sticks",
+          "description": "Breaded and fried mozzarella cheese served with marinara sauce.",
+          "price": "€6.00",
+          "tags": ["vegetarian", "dairy"]
+        },
+        "chickenWings": {
+          "name": "Chicken Wings",
+          "description": "Crispy wings tossed in your choice of sauce.",
+          "price": "€7.00",
+          "tags": ["gluten", "spicy"]
+        },
+        "springRolls": {
+          "name": "Spring Rolls",
+          "description": "Crispy rolls filled with mixed vegetables and served with dipping sauce.",
+          "price": "€5.00",
+          "tags": ["vegan"]
+        },
+        "stuffedMushrooms": {
+          "name": "Stuffed Mushrooms",
+          "description": "Mushrooms filled with garlic, herbs, and cheese.",
+          "price": "€5.50",
+          "tags": ["vegetarian", "gluten-free"]
+        },
+        "friedCalamari": {
+          "name": "Fried Calamari",
+          "description": "Crispy squid rings served with lemon and aioli.",
+          "price": "€7.50",
+          "tags": ["seafood"]
+        },
+        "miniEmpanadas": {
+          "name": "Mini Empanadas",
+          "description": "Pastries filled with spiced beef and vegetables.",
+          "price": "€6.50",
+          "tags": ["gluten"]
+        }
+      }
+    },
+    "tapas": {
+      "title": "Tapas",
+      "items": {
+        "patatasBravas": {
+          "name": "Patatas Bravas",
+          "description": "Fried potatoes served with spicy tomato sauce and aioli.",
+          "price": "€5.50",
+          "tags": ["vegetarian"]
+        },
+        "garlicShrimp": {
+          "name": "Gambas al Ajillo",
+          "description": "Shrimp sautéed in garlic and olive oil.",
+          "price": "€7.50",
+          "tags": ["seafood", "gluten-free"]
+        },
+        "chorizoBites": {
+          "name": "Chorizo Bites",
+          "description": "Spicy Spanish sausage slices grilled and served hot.",
+          "price": "€6.00",
+          "tags": ["gluten-free"]
+        },
+        "manchegoOlives": {
+          "name": "Manchego & Olives",
+          "description": "Cubes of Manchego cheese with marinated olives.",
+          "price": "€5.50",
+          "tags": ["vegetarian", "gluten-free"]
+        },
+        "tunaTartare": {
+          "name": "Tuna Tartare",
+          "description": "Raw tuna with avocado and soy-lime dressing.",
+          "price": "€8.00",
+          "tags": ["seafood"]
+        }
+      }
+    },
+    "dipsSpreads": {
+      "title": "Dips & Spreads",
+      "items": {
+        "tzatziki": {
+          "name": "Tzatziki",
+          "description": "Greek yogurt dip with cucumber and garlic.",
+          "price": "€4.00",
+          "tags": ["vegetarian", "gluten-free", "dairy"]
+        },
+        "babaGhanoush": {
+          "name": "Baba Ghanoush",
+          "description": "Smoky eggplant dip served with warm pita.",
+          "price": "€4.50",
+          "tags": ["vegan"]
+        },
+        "spinachArtichoke": {
+          "name": "Spinach & Artichoke Dip",
+          "description": "Creamy hot dip with spinach, artichoke, and cheese.",
+          "price": "€5.00",
+          "tags": ["vegetarian", "dairy"]
+        },
+        "guacamole": {
+          "name": "Guacamole",
+          "description": "Fresh avocado mash with lime, onion, and tomato.",
+          "price": "€4.50",
+          "tags": ["vegan", "gluten-free"]
+        },
+        "trioDip": {
+          "name": "Trio Dip Platter",
+          "description": "Selection of hummus, tzatziki, and roasted red pepper spread.",
+          "price": "€6.50",
+          "tags": ["vegetarian"]
+        }
+      }
+    }
+  }
+}

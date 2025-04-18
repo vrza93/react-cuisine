@@ -1,0 +1,35 @@
+.header {
+  position: relative;
+  text-align: center;
+  padding: 40px 20px;
+  background-color: #111;
+  color: #fff;
+}
+
+.lang-select {
+  display: inline-block;
+  margin: 0;
+  height: 40px;
+  font-size: 1rem;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.lang-select option {
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #fff;
+  font-size: 1rem;
+  color: #333;
+  width: 150px;
+  height: 40px;
+  font-weight: 600;
+}
+
+.logo {
+  width: 12rem;
+  margin-bottom: 10px;
+  cursor: pointer;
+}

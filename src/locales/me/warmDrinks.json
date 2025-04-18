@@ -1,0 +1,114 @@
+{
+  "title": "Topli Napici",
+  "backToMenu": "Nazad na Meni",
+  "categories": {
+    "hotDrinks": {
+      "title": "Topli Napici",
+      "items": {
+        "coffee": {
+          "name": "Kafa",
+          "description": "Topli napitak napravljen od mljevenih zrna kafe.",
+          "price": "€3.00",
+          "tags": ["sa kofeinom", "veganski"]
+        },
+        "espresso": {
+          "name": "Espreso",
+          "description": "Jak i koncentrisan napitak od kafe.",
+          "price": "€2.50",
+          "tags": ["sa kofeinom"]
+        },
+        "cappuccino": {
+          "name": "Kapućino",
+          "description": "Espreso sa toplim mlijekom i pjenom od mlijeka.",
+          "price": "€3.20",
+          "tags": ["sa kofeinom", "sadrži mlijeko"]
+        },
+        "latte": {
+          "name": "Latte",
+          "description": "Espreso sa većom količinom toplog mlijeka.",
+          "price": "€3.40",
+          "tags": ["sa kofeinom", "sadrži mlijeko"]
+        },
+        "mocha": {
+          "name": "Moka",
+          "description": "Espreso sa čokoladom i toplim mlijekom.",
+          "price": "€3.60",
+          "tags": ["sa kofeinom", "sadrži mlijeko", "gluten"]
+        },
+        "americano": {
+          "name": "Amerikano",
+          "description": "Espreso razblažen sa toplom vodom.",
+          "price": "€2.80",
+          "tags": ["sa kofeinom", "veganski"]
+        },
+        "tea": {
+          "name": "Čaj",
+          "description": "Topli napitak od sušenih listova čaja u vodi.",
+          "price": "€2.50",
+          "tags": ["sa kofeinom", "biljni"]
+        },
+        "greenTea": {
+          "name": "Zeleni Čaj",
+          "description": "Lagani i osvježavajući čaj bogat antioksidansima.",
+          "price": "€2.70",
+          "tags": ["veganski", "sa kofeinom"]
+        },
+        "peppermintTea": {
+          "name": "Čaj od Nane",
+          "description": "Umirujući biljni čaj bez kofeina.",
+          "price": "€2.60",
+          "tags": ["biljni", "veganski"]
+        },
+        "hotChocolate": {
+          "name": "Topla Čokolada",
+          "description": "Topli napitak sa kakaom i mlijekom.",
+          "price": "€3.50",
+          "tags": ["sadrži mlijeko", "gluten"]
+        },
+        "chai": {
+          "name": "Čaj Masala",
+          "description": "Začinjeni crni čaj sa mlijekom i začinima.",
+          "price": "€3.00",
+          "tags": ["sa kofeinom", "začinjeno"]
+        },
+        "turmericLatte": {
+          "name": "Kurkuma Latte",
+          "description": "Topli zlatni napitak od kurkume i biljnog mlijeka.",
+          "price": "€3.70",
+          "tags": ["veganski", "antiinflamatorno"]
+        },
+        "matcha": {
+          "name": "Mača Latte",
+          "description": "Prah zelenog čaja umiješan sa toplim mlijekom.",
+          "price": "€4.00",
+          "tags": ["sa kofeinom", "sadrži mlijeko"]
+        }
+      }
+    },
+    "water": {
+      "title": "Voda",
+      "items": {
+        "sparkling": {
+          "name": "Gazirana Voda",
+          "description": "Osvježavajuća gazirana voda.",
+          "price": "€1.50"
+        },
+        "mineral": {
+          "name": "Mineralna Voda",
+          "description": "Negazirana voda bogata mineralima.",
+          "price": "€2.00"
+        },
+        "lemonWater": {
+          "name": "Voda sa Limunom",
+          "description": "Ohlađena voda sa dodatkom limuna.",
+          "price": "€1.80"
+        },
+        "cucumberMintWater": {
+          "name": "Voda sa Krastavcem i Nanom",
+          "description": "Voda sa ukusom krastavca i nane.",
+          "price": "€2.20"
+        }
+      }
+    }
+  }
+}

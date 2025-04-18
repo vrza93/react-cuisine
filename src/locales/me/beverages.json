@@ -1,0 +1,321 @@
+{
+  "title": "Pića",
+  "backToMenu": "Nazad na Meni",
+  "categories": {
+    "softDrinks": {
+      "title": "Bezalkoholna pića",
+      "items": {
+        "cola": {
+          "name": "Kola",
+          "description": "Klasično gazirano bezalkoholno piće.",
+          "price": "€2.00",
+          "tags": ["kofeinsko", "bez glutena"]
+        },
+        "pepsi": {
+          "name": "Pepsi",
+          "description": "Popularna kola sa osvežavajućim ukusom.",
+          "price": "€2.00",
+          "tags": ["kofeinsko", "bez glutena"]
+        },
+        "fanta": {
+          "name": "Fanta",
+          "description": "Gazirano piće sa ukusom narandže.",
+          "price": "€2.00",
+          "tags": ["vegansko", "bez glutena"]
+        },
+        "lemonade": {
+          "name": "Limunada",
+          "description": "Osvježavajući napitak od limuna.",
+          "price": "€2.50",
+          "tags": ["vegansko", "bez glutena"]
+        },
+        "icedTea": {
+          "name": "Ledeni čaj",
+          "description": "Hladan čaj sa aromom limuna.",
+          "price": "€2.20",
+          "tags": ["kofeinsko"]
+        }
+      }
+    },
+    "juices": {
+      "title": "Sokovi",
+      "items": {
+        "appleJuice": {
+          "name": "Sok od jabuke",
+          "description": "Prirodni sok od svježih jabuka.",
+          "price": "€2.50",
+          "tags": ["vegansko", "bez glutena"]
+        },
+        "orangeJuice": {
+          "name": "Sok od narandže",
+          "description": "Svježe cijeđena narandža.",
+          "price": "€3.00",
+          "tags": ["vegansko", "bez glutena"]
+        },
+        "carrotJuice": {
+          "name": "Sok od šargarepe",
+          "description": "Bogat vitaminima, svjež sok.",
+          "price": "€2.80",
+          "tags": ["vegansko", "bez glutena"]
+        },
+        "pineappleJuice": {
+          "name": "Sok od ananasa",
+          "description": "Egzotičan i osvježavajući sok.",
+          "price": "€3.00",
+          "tags": ["vegansko", "bez glutena"]
+        },
+        "grapeJuice": {
+          "name": "Sok od grožđa",
+          "description": "Sladak i bogat ukus grožđa.",
+          "price": "€2.90",
+          "tags": ["vegansko", "bez glutena"]
+        }
+      }
+    },
+    "energyDrinks": {
+      "title": "Energetska pića",
+      "items": {
+        "redBull": {
+          "name": "Red Bull",
+          "description": "Energetski napitak sa kofeinom i taurinom.",
+          "price": "€3.00",
+          "tags": ["kofeinsko"]
+        },
+        "monster": {
+          "name": "Monster",
+          "description": "Snažan energetski napitak.",
+          "price": "€3.20",
+          "tags": ["kofeinsko"]
+        },
+        "rockstar": {
+          "name": "Rockstar",
+          "description": "Puni ukus i energija u limenci.",
+          "price": "€3.00",
+          "tags": ["kofeinsko"]
+        },
+        "burn": {
+          "name": "Burn",
+          "description": "Citrusni energetski napitak.",
+          "price": "€2.90",
+          "tags": ["kofeinsko"]
+        },
+        "hellEnergy": {
+          "name": "Hell Energy",
+          "description": "Popularan evropski energetski napitak.",
+          "price": "€2.80",
+          "tags": ["kofeinsko"]
+        }
+      }
+    },
+    "beers": {
+      "title": "Piva",
+      "items": {
+        "heineken": {
+          "name": "Heineken",
+          "description": "Holandsko pivo blagih nota.",
+          "price": "€3.50",
+          "tags": ["lager"]
+        },
+        "amstel": {
+          "name": "Amstel",
+          "description": "Lako i osvežavajuće pivo.",
+          "price": "€3.20",
+          "tags": ["lager"]
+        },
+        "guinness": {
+          "name": "Guinness",
+          "description": "Irski stout bogatog ukusa.",
+          "price": "€4.00",
+          "tags": ["stout"]
+        },
+        "corona": {
+          "name": "Corona",
+          "description": "Meksičko pivo koje se služi sa limetom.",
+          "price": "€3.80",
+          "tags": ["lager"]
+        },
+        "budweiser": {
+          "name": "Budweiser",
+          "description": "Američki klasik među pivima.",
+          "price": "€3.60",
+          "tags": ["lager"]
+        }
+      }
+    },
+    "whiskeys": {
+      "title": "Viskiji",
+      "items": {
+        "jackDaniels": {
+          "name": "Jack Daniel's",
+          "description": "Tennessee viski sa dimljenim završetkom.",
+          "price": "€6.50",
+          "tags": ["tenesi"]
+        },
+        "jameson": {
+          "name": "Jameson",
+          "description": "Glattki irski viski.",
+          "price": "€6.00",
+          "tags": ["irski"]
+        },
+        "johnnieWalker": {
+          "name": "Johnnie Walker",
+          "description": "Blendovani škotski viski.",
+          "price": "€7.00",
+          "tags": ["škotski"]
+        },
+        "makersMark": {
+          "name": "Maker's Mark",
+          "description": "Premijum burbon iz Kentakija.",
+          "price": "€7.20",
+          "tags": ["burbon"]
+        },
+        "chivas": {
+          "name": "Chivas Regal",
+          "description": "Elegantni škotski blend.",
+          "price": "€7.50",
+          "tags": ["škotski"]
+        }
+      }
+    },
+    "cocktails": {
+      "title": "Kokteli",
+      "items": {
+        "mojito": {
+          "name": "Mohito",
+          "description": "Kombinacija nane, limete, ruma i sode.",
+          "price": "€5.50",
+          "tags": ["rum"]
+        },
+        "margarita": {
+          "name": "Margarita",
+          "description": "Kokteli od tekile i limete.",
+          "price": "€6.00",
+          "tags": ["tekila"]
+        },
+        "cosmopolitan": {
+          "name": "Kozmopolitan",
+          "description": "Vodka, brusnica i limeta.",
+          "price": "€5.80",
+          "tags": ["vodka"]
+        },
+        "pinaColada": {
+          "name": "Pina Kolada",
+          "description": "Kokos, ananas i rum.",
+          "price": "€6.50",
+          "tags": ["rum"]
+        },
+        "negroni": {
+          "name": "Negroni",
+          "description": "Gin, vermut i Campari.",
+          "price": "€6.20",
+          "tags": ["gin"]
+        }
+      }
+    },
+    "cognacs": {
+      "title": "Konjaci",
+      "items": {
+        "hennessy": {
+          "name": "Hennessy",
+          "description": "Francuski konjak bogatog ukusa.",
+          "price": "€8.00",
+          "tags": ["VSOP"]
+        },
+        "remyMartin": {
+          "name": "Rémy Martin",
+          "description": "Konjak fine šampanjske regije.",
+          "price": "€8.50",
+          "tags": ["VSOP"]
+        },
+        "courvoisier": {
+          "name": "Courvoisier",
+          "description": "Glatki i dobro izbalansirani konjak.",
+          "price": "€7.80",
+          "tags": ["VSOP"]
+        },
+        "martell": {
+          "name": "Martell",
+          "description": "Elegantnog i rafiniranog ukusa.",
+          "price": "€8.00",
+          "tags": ["VS"]
+        },
+        "camus": {
+          "name": "Camus",
+          "description": "Cvjetni i blagi konjak.",
+          "price": "€8.20",
+          "tags": ["VSOP"]
+        }
+      }
+    },
+    "wines": {
+      "title": "Vina",
+      "items": {
+        "merlot": {
+          "name": "Merlo",
+          "description": "Crveno vino sa notama šljive.",
+          "price": "€4.50",
+          "tags": ["crveno"]
+        },
+        "cabernet": {
+          "name": "Kaberne Sovinjon",
+          "description": "Punog tijela, crveno vino.",
+          "price": "€5.00",
+          "tags": ["crveno"]
+        },
+        "chardonnay": {
+          "name": "Šardone",
+          "description": "Svježe i hrskavo bijelo vino.",
+          "price": "€4.80",
+          "tags": ["bijelo"]
+        },
+        "pinotGrigio": {
+          "name": "Pino Grigio",
+          "description": "Lagano bijelo vino sa citrusnim notama.",
+          "price": "€4.70",
+          "tags": ["bijelo"]
+        },
+        "rose": {
+          "name": "Roze",
+          "description": "Nježno i voćno roze vino.",
+          "price": "€4.60",
+          "tags": ["roze"]
+        }
+      }
+    },
+    "champagnes": {
+      "title": "Šampanjci",
+      "items": {
+        "moet": {
+          "name": "Moët & Chandon",
+          "description": "Luksuzni francuski šampanjac.",
+          "price": "€12.00",
+          "tags": ["brut"]
+        },
+        "veuveClicquot": {
+          "name": "Veuve Clicquot",
+          "description": "Snažan i bogat šampanjac.",
+          "price": "€13.00",
+          "tags": ["brut"]
+        },
+        "domPerignon": {
+          "name": "Dom Pérignon",
+          "description": "Prestižni vintage šampanjac.",
+          "price": "€20.00",
+          "tags": ["vintage"]
+        },
+        "piperHeidsieck": {
+          "name": "Piper-Heidsieck",
+          "description": "Živahan i elegantan ukus.",
+          "price": "€11.00",
+          "tags": ["brut"]
+        },
+        "bollinger": {
+          "name": "Bollinger",
+          "description": "Intenzivan i strukturiran šampanjac.",
+          "price": "€14.00",
+          "tags": ["brut"]
+        }
+      }
+    }
+  }
+}

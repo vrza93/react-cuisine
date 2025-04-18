@@ -1,0 +1,12 @@
+{
+  "header": {
+    "welcome": "Dobrodošli u naš restoran",
+    "chooseLanguage": "Izaberite jezik i uživajte"
+  },
+  "menu": {
+    "warmDrinks": "Topli napici",
+    "beverages": "Pića",
+    "appetizers": "Predjela",
+    "mainDishes": "Glavna jela"
+  }
+}

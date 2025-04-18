@@ -1,0 +1,58 @@
+.footer {
+  background-color: #111;
+  color: #fff;
+  padding: 30px 20px;
+  text-align: center;
+  font-size: 0.9rem;
+}
+
+.footer-info p {
+  margin: 5px 0;
+}
+
+.socials a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 5px;
+}
+
+.socials a:hover {
+  text-decoration: underline;
+}
+
+.footer-credit {
+  margin-top: 20px;
+  font-size: 1rem;
+  color: #aaa;
+}
+
+.heart {
+  color: red;
+}
+
+.footer a {
+  color: #fff;
+  text-decoration: none;
+  transition: color 0.8s ease, text-decoration 1s ease;
+  position: relative;
+}
+
+.footer a::after {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 2px;
+  display: block;
+  background: #3498db;
+  transition: width 0.3s ease;
+  bottom: 0;
+  left: 0;
+}
+
+footer a:hover::after {
+  width: 100%;
+}
+
+footer a:hover {
+  color: #ffe819;
+}

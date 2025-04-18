@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Coastal Cuisine",
+  "name": "Coastal Cuisine Restaurant",
+  "description": "A delightful dining experience with a coastal theme.",
   "icons": [
     {
       "src": "favicon.ico",
@@ -21,5 +22,16 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+  "lang": "en",
+  "locales": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "me",
+      "name": "Montenegrin"
+    }
+  ]
 }

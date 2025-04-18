@@ -1,0 +1,114 @@
+{
+  "title": "Warm Drinks",
+  "backToMenu": "Back to Menu",
+  "categories": {
+    "hotDrinks": {
+      "title": "Hot Drinks",
+      "items": {
+        "coffee": {
+          "name": "Coffee",
+          "description": "A hot beverage made from ground coffee beans.",
+          "price": "€3.00",
+          "tags": ["caffeinated", "vegan"]
+        },
+        "espresso": {
+          "name": "Espresso",
+          "description": "A strong and concentrated shot of coffee.",
+          "price": "€2.50",
+          "tags": ["caffeinated"]
+        },
+        "cappuccino": {
+          "name": "Cappuccino",
+          "description": "Espresso with steamed milk and milk foam.",
+          "price": "€3.20",
+          "tags": ["caffeinated", "dairy"]
+        },
+        "latte": {
+          "name": "Latte",
+          "description": "Espresso with a generous amount of steamed milk.",
+          "price": "€3.40",
+          "tags": ["caffeinated", "dairy"]
+        },
+        "mocha": {
+          "name": "Mocha",
+          "description": "Espresso with chocolate and steamed milk.",
+          "price": "€3.60",
+          "tags": ["caffeinated", "dairy", "gluten"]
+        },
+        "americano": {
+          "name": "Americano",
+          "description": "Espresso diluted with hot water.",
+          "price": "€2.80",
+          "tags": ["caffeinated", "vegan"]
+        },
+        "tea": {
+          "name": "Tea",
+          "description": "A hot drink made by infusing dried tea leaves in water.",
+          "price": "€2.50",
+          "tags": ["caffeinated", "herbal"]
+        },
+        "greenTea": {
+          "name": "Green Tea",
+          "description": "A light and refreshing tea with antioxidant properties.",
+          "price": "€2.70",
+          "tags": ["vegan", "caffeinated"]
+        },
+        "peppermintTea": {
+          "name": "Peppermint Tea",
+          "description": "A calming and caffeine-free herbal tea.",
+          "price": "€2.60",
+          "tags": ["herbal", "vegan"]
+        },
+        "hotChocolate": {
+          "name": "Hot Chocolate",
+          "description": "A warm drink made with cocoa powder and milk.",
+          "price": "€3.50",
+          "tags": ["dairy", "gluten"]
+        },
+        "chai": {
+          "name": "Chai",
+          "description": "A spiced tea made with black tea, milk, and spices.",
+          "price": "€3.00",
+          "tags": ["caffeinated", "spiced"]
+        },
+        "turmericLatte": {
+          "name": "Turmeric Latte",
+          "description": "A warm, golden drink made with turmeric and plant milk.",
+          "price": "€3.70",
+          "tags": ["vegan", "anti-inflammatory"]
+        },
+        "matcha": {
+          "name": "Matcha Latte",
+          "description": "A smooth green tea powder mixed with steamed milk.",
+          "price": "€4.00",
+          "tags": ["caffeinated", "dairy"]
+        }
+      }
+    },
+    "water": {
+      "title": "Water",
+      "items": {
+        "sparkling": {
+          "name": "Sparkling Water",
+          "description": "Refreshing carbonated water.",
+          "price": "€1.50"
+        },
+        "mineral": {
+          "name": "Mineral Water",
+          "description": "Still water with essential minerals.",
+          "price": "€2.00"
+        },
+        "lemonWater": {
+          "name": "Lemon Water",
+          "description": "Chilled water with a splash of lemon.",
+          "price": "€1.80"
+        },
+        "cucumberMintWater": {
+          "name": "Cucumber Mint Water",
+          "description": "Infused water with cucumber and mint leaves.",
+          "price": "€2.20"
+        }
+      }
+    }
+  }
+}
